@@ -1,4 +1,5 @@
 import {Engine, Scene} from 'babylonjs'; 
+import 'babylonjs-loaders';
 import {startScene} from './scenes/start.js'; 
 const engine = new Engine(document.querySelector('canvas'), true); 
 
