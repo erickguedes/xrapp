@@ -9,7 +9,8 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^8.0.12"
+    "vite": "^8.0.12",
+    "vite-plugin-mkcert": "^2.1.0"
   },
   "dependencies": {
     "babylonjs": "^9.13.0"
